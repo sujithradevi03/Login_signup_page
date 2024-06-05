@@ -15,4 +15,5 @@ This project is a simple login and sign up page built with HTML, CSS, and JavaSc
 2.Navigate to the project directory
 3.Open index.html in your browser to view the login and sign up page
 
-## FEEL FREE TO MODIFY THE CODE TO SUIT YOUR NEEDS!
+## To Experience the project, click this link :-> https://login-signup-page.glitch.me/
+FEEL FREE TO MODIFY THE CODE TO SUIT YOUR NEEDS!
