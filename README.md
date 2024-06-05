@@ -11,8 +11,8 @@ This project is a simple login and sign up page built with HTML, CSS, and JavaSc
 -**JavaScript:** For handling form submissions.
 -**Bootstrap:** For responsive design and layout.
 ## How to Use
--**1.**Clone the repository
--**2.**Navigate to the project directory
--**3.**Open index.html in your browser to view the login and sign up page
+1.Clone the repository
+2.Navigate to the project directory
+3.Open index.html in your browser to view the login and sign up page
 
 ## FEEL FREE TO MODIFY THE CODE TO SUIT YOUR NEEDS!
